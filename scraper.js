@@ -13,7 +13,7 @@ const promisify = (fn, args) => {
   });
 };
 
-[
+const sites = [
   {
     url: 'https://news.ycombinator.com/news',
     output: 'hackernews.txt',
@@ -24,15 +24,20 @@ const promisify = (fn, args) => {
     output: 'hackernewsJobs.txt',
     handler: getJobs
   }
-].forEach(topic => {
+];
+sites.forEach(topic => {
   axios(topic.url).then(res =>
     parseHtml(res.data, topic.output, topic.handler)
   );
 });
 
+function append(output, data, link) {
+  fs.appendFileSync(output, `${data}\n ${link}\n\n`);
+}
+
 const parseHtml = (htmlString, output, parseFn) => {
   const ch = cheerio.load(htmlString);
-  fs.appendFileSync(output, `Date: ${new Date().getDate()}'\n\n'`);
+  fs.writeFileSync(output, `Date: ${new Date().toLocaleTimeString()}\n\n`);
   parseFn(ch, output);
 };
 
@@ -40,13 +45,14 @@ function getNews(ch, output) {
   ch('tr.athing:has(td.votelinks)').each(function(index) {
     const title = ch(this).find('td.title > a').text().trim();
     const link = ch(this).find('td.title > a').attr('href');
-    fs.appendFileSync(output, title + '\n' + link + '\n\n');
+    append(output, title, link);
   });
 }
 
 function getJobs(ch, output) {
-  ch('tr.athing').each(index => {
+  ch('tr.athing:has(td.title)').each(function(index) {
     const job = ch(this).find('td.title > a').text().trim();
-    console.log('job', job, 'this', this);
+    const jobLink = ch(this).find('td.title > a').attr('href');
+    append(output, job, jobLink);
   });
 }

@@ -1,7 +1,92 @@
-Date: 16+'
+Date: 12:26:59 AM
 
-'Date: 16+'
+OneSignal is hiring full stack developers to make notifications smarter
+ https://angel.co/onesignal/jobs/70563-senior-full-stack-developer
 
-'Date: 16'
+SmartAsset (YC S12) Seeks Data Analyst
+ https://careers.jobscore.com/careers/smartasset/jobs/data-analyst-d7PDAMtfer56t0eMg-44q7
 
-'
+Apollo/Meteor is hiring systems engineers to build GraphQL tools (remote OK)
+ http://meteor.io
+
+PlanGrid (YC W12) Is Hiring Machine Learning, Android and More
+ https://jobs.lever.co/plangrid/92f9f4d8-5e04-4eac-9fcf-e8253c536757
+
+Impraise (YC S14) Is Hiring a Systems Engineer in Beautiful Amsterdam
+ http://jobs.impraise.com/o/systems-engineer
+
+Love Kubernetes/cloud/APIs? Bitnami is hiring senior back end developers (remote)
+ https://jobs.lever.co/bitnami/5cc9e206-d44d-40c8-9dd4-6eb7c28a072f
+
+Smarking (YC W15) Is Hiring Sr. Software Engineer in SF
+ https://jobs.lever.co/smarking/6a47f8a1-5cf6-4174-affb-d10fd62f5fb8
+
+Seva Coffee (YC) – building the future of coffee – is hiring Head of Sales
+ item?id=14553947
+
+Captain401 (YC S15) is hiring product managers, engineers, and customer support
+ https://captain401.com/careers
+
+Scale API (S16) Is Hiring Front End, and ML Engineers
+ https://www.scaleapi.com/about#jobs
+
+FloydHub (YC W17, Heroku for Deep Learning) Is Hiring First Front End Engineer
+ item?id=14550501
+
+Eden (YC S15) hiring growth team members
+ https://angel.co/eden/jobs/244061-growth-team
+
+Etleap Is Hiring Java Engineers to Build Next-Gen ETL
+ item?id=14548482
+
+Build technologies that power millions of sites at Strikingly in Shanghai
+ http://www.strikingly.com/s/careers?utm_source=hn&utm_content=bsh
+
+Weebly is hiring a Solutions Architect
+ item?id=14543993
+
+Benchling (YC S12) is hiring engineers to build a platform for biotech research
+ item?id=14543133
+
+Zesty (YC W14) Is Hiring a Product Engineer
+ https://boards.greenhouse.io/zesty/jobs/704171#.WT7BTRPyuCc
+
+Drchrono w2011 – Help us fix healthcare through Django / Python
+ https://www.drchrono.com/careers
+
+VoiceOps is hiring remote React developers
+ https://angel.co/voiceops/jobs/247640-react-developer-remote
+
+Nimble seeking UI/UX designer (contract work, ~10h/wk)
+ item?id=14534826
+
+Write Haskell in production at CircuitHub
+ https://circuithub.com/careers/haskellers
+
+Flexport is hiring engineers to break down barriers to global trade
+ https://flexport.com/careers
+
+LendUp (YC W12) Is Hiring a Senior PostgreSQL DBA
+ https://www.lendup.com/careers/positions?gh_jid=722262
+
+Help millions of US K-12 students use software at Clever (YC S12)
+ https://clever.com/about/jobs#software-engineer
+
+Streak (YC S11) Is Hiring a Senior Talent Manager
+ https://www.streak.com/careers#Talent
+
+Tesorio (YC S15) Is Hiring a Product Designer, Marketing Manager and Sales Rep
+ https://www.tesorio.com/careers/
+
+Mattermark Is Hiring a Data Analyst Intern
+ https://jobs.lever.co/mattermark/800c201c-07d0-4b87-b612-62061a926948
+
+Stilt (YC W16) Is Hiring a Software Eng. In India
+ https://angel.co/stilt/jobs/228931-senior-engineer-full-stack-development
+
+Circle Medical (YC S15) Is Hiring a Front-End Engineer
+ https://jobs.lever.co/circlemedical/0cd78c6f-b969-4edd-9f64-cab1632b22a2
+
+iCracked (YC W12) Is Hiring Performance Marketing Analyst / Growth Hacker
+ https://www.icracked.com/careers/performance-marketing-analyst/
+
