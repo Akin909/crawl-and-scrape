@@ -25,11 +25,9 @@ const sites = [
     handler: getJobs
   }
 ];
-sites.forEach(topic => {
-  axios(topic.url).then(res =>
-    parseHtml(res.data, topic.output, topic.handler)
-  );
-});
+const data = sites.map(topic =>
+  axios(topic.url).then(res => parseHtml(res.data, topic.output, topic.handler))
+);
 
 function append(output, data, link) {
   fs.appendFileSync(output, `${data}\n ${link}\n\n`);
@@ -38,7 +36,7 @@ function append(output, data, link) {
 const parseHtml = (htmlString, output, parseFn) => {
   const ch = cheerio.load(htmlString);
   fs.writeFileSync(output, `Date: ${new Date().toLocaleTimeString()}\n\n`);
-  parseFn(ch, output);
+  return parseFn(ch, output);
 };
 
 function getNews(ch, output) {
@@ -46,6 +44,10 @@ function getNews(ch, output) {
     const title = ch(this).find('td.title > a').text().trim();
     const link = ch(this).find('td.title > a').attr('href');
     append(output, title, link);
+    return {
+      title,
+      link
+    };
   });
 }
 
@@ -54,5 +56,9 @@ function getJobs(ch, output) {
     const job = ch(this).find('td.title > a').text().trim();
     const jobLink = ch(this).find('td.title > a').attr('href');
     append(output, job, jobLink);
+    return {
+      job,
+      jobLink
+    };
   });
 }
