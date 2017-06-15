@@ -1,0 +1,533 @@
+
+Date: 15If you can’t explain something in simple terms, you don’t understand it
+http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+
+Catfish Programmers
+https://www.butternotes.com/blog/catfish-programmers
+
+World Bank-Sponsored Report Shows 200% ROI on Open Source Participation
+https://osenetwork.com/2017/06/13/bombshell-report-200-roi-on-open-source-participation/
+
+DeepMind Open Source Datasets
+https://deepmind.com/research/open-source/open-source-datasets/
+
+The $13B Aircraft Carrier That Has Trouble with Planes
+https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes
+
+TLA+ in Practice and Theory, Part 4: Order in TLA+
+https://pron.github.io/posts/tlaplus_part4
+
+Ableton Live Redesign
+http://nenadmilosevic.co/ableton-live-redesign/
+
+The Crypto Anarchist Manifesto (1988)
+http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+
+Software NRSC-5 Receiver
+https://github.com/theori-io/nrsc5
+
+CouchDB vs. MongoDB – Thorough comparison
+http://blog.panoply.io/couchdb-vs-mongodb
+
+U.S. Invests $258M in Supercomputing Race with China
+https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600
+
+Lyft Climate Impact Goals
+https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals
+
+America’s Health-Care Crisis Is a Gold Mine for Crowdfunding
+https://www.bloomberg.com/news/articles/2017-06-12/america-s-health-care-crisis-is-a-gold-mine-for-crowdfunding
+
+No correlation between headphone frequency response and retail price
+http://asa.scitation.org/doi/10.1121/1.4984044
+
+Uber rape victim sues Uber, says execs got her medical records
+https://arstechnica.com/tech-policy/2017/06/uber-rape-victim-sues-uber-says-execs-got-her-medical-records/
+
+Pancreatic cancer from a different perspective
+https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/
+
+AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes
+http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/
+
+Overexposure to insecticides has bred resistance in lice
+https://www.scientificamerican.com/article/revenge-of-the-super-lice/
+
+How female elk adjust behaviour with age to avoid hunters
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable
+
+Telegram founder: US intelligence tried to bribe us to weaken encryption
+https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876
+
+Snap's share price sinks, trades just above IPO price
+http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941
+
+Z-Berry: Z-80 computer
+https://sites.google.com/site/zberrysbc/home
+
+Show HN: Snips is a AI Voice Assistant platform 100% on-device and private
+https://snips.ai
+
+Emmanuel Macron presidency prompts French startup boom
+https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html
+
+Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1
+http://www.umooc.org
+
+Twitter, but for Math, with Toots
+http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/
+
+SSH Check – public SSH server testing tool
+http://sshcheck.com
+
+I spent 29 years in solitary confinement (2010)
+https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print
+
+Our dirty little secret: Cross-platform email client with nothing but HTML
+https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+
+Date: 16+'
+
+'World Bank-Sponsored Report Shows 200% ROI on Open Source Participation
+https://osenetwork.com/2017/06/13/bombshell-report-200-roi-on-open-source-participation/
+
+DeepMind Open Source Datasets
+https://deepmind.com/research/open-source/open-source-datasets/
+
+TLA+ in Practice and Theory, Part 4: Order in TLA+
+https://pron.github.io/posts/tlaplus_part4
+
+Ableton Live Redesign
+http://nenadmilosevic.co/ableton-live-redesign/
+
+The Crypto Anarchist Manifesto (1988)
+http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+
+CouchDB vs. MongoDB – Thorough comparison
+http://blog.panoply.io/couchdb-vs-mongodb
+
+U.S. Invests $258M in Supercomputing Race with China
+https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600
+
+Software NRSC-5 Receiver
+https://github.com/theori-io/nrsc5
+
+Lyft Climate Impact Goals
+https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals
+
+America’s Health-Care Crisis Is a Gold Mine for Crowdfunding
+https://www.bloomberg.com/news/articles/2017-06-12/america-s-health-care-crisis-is-a-gold-mine-for-crowdfunding
+
+If you can’t explain something in simple terms, you don’t understand it
+http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+
+No correlation between headphone frequency response and retail price
+http://asa.scitation.org/doi/10.1121/1.4984044
+
+Catfish Programmers
+https://www.butternotes.com/blog/catfish-programmers
+
+The newest and costliest U.S. aircraft carrier has been dogged by trouble
+https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes
+
+Uber rape victim sues Uber, says execs got her medical records
+https://arstechnica.com/tech-policy/2017/06/uber-rape-victim-sues-uber-says-execs-got-her-medical-records/
+
+AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes
+http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/
+
+Pancreatic cancer from a different perspective
+https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/
+
+Overexposure to insecticides has bred resistance in lice
+https://www.scientificamerican.com/article/revenge-of-the-super-lice/
+
+Telegram founder: US intelligence tried to bribe us to weaken encryption
+https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876
+
+How female elk adjust behaviour with age to avoid hunters
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable
+
+Snap's share price sinks, trades just above IPO price
+http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941
+
+Z-Berry: Z-80 computer
+https://sites.google.com/site/zberrysbc/home
+
+Show HN: Snips is a AI Voice Assistant platform 100% on-device and private
+https://snips.ai
+
+Emmanuel Macron presidency prompts French startup boom
+https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html
+
+Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1
+http://www.umooc.org
+
+Twitter, but for Math, with Toots
+http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/
+
+SSH Check – public SSH server testing tool
+http://sshcheck.com
+
+I spent 29 years in solitary confinement (2010)
+https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print
+
+Our dirty little secret: Cross-platform email client with nothing but HTML
+https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+
+Date: 16+'
+
+'World Bank-Sponsored Report Shows 200% ROI on Open Source Participation
+https://osenetwork.com/2017/06/13/bombshell-report-200-roi-on-open-source-participation/
+
+DeepMind Open Source Datasets
+https://deepmind.com/research/open-source/open-source-datasets/
+
+TLA+ in Practice and Theory, Part 4: Order in TLA+
+https://pron.github.io/posts/tlaplus_part4
+
+Ableton Live Redesign
+http://nenadmilosevic.co/ableton-live-redesign/
+
+The Crypto Anarchist Manifesto (1988)
+http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+
+CouchDB vs. MongoDB – Thorough comparison
+http://blog.panoply.io/couchdb-vs-mongodb
+
+U.S. Invests $258M in Supercomputing Race with China
+https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600
+
+Software NRSC-5 Receiver
+https://github.com/theori-io/nrsc5
+
+Lyft Climate Impact Goals
+https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals
+
+America’s Health-Care Crisis Is a Gold Mine for Crowdfunding
+https://www.bloomberg.com/news/articles/2017-06-12/america-s-health-care-crisis-is-a-gold-mine-for-crowdfunding
+
+If you can’t explain something in simple terms, you don’t understand it
+http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+
+No correlation between headphone frequency response and retail price
+http://asa.scitation.org/doi/10.1121/1.4984044
+
+Catfish Programmers
+https://www.butternotes.com/blog/catfish-programmers
+
+The newest and costliest U.S. aircraft carrier has been dogged by trouble
+https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes
+
+Uber rape victim sues Uber, says execs got her medical records
+https://arstechnica.com/tech-policy/2017/06/uber-rape-victim-sues-uber-says-execs-got-her-medical-records/
+
+AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes
+http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/
+
+Pancreatic cancer from a different perspective
+https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/
+
+Overexposure to insecticides has bred resistance in lice
+https://www.scientificamerican.com/article/revenge-of-the-super-lice/
+
+Telegram founder: US intelligence tried to bribe us to weaken encryption
+https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876
+
+How female elk adjust behaviour with age to avoid hunters
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable
+
+Snap's share price sinks, trades just above IPO price
+http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941
+
+Z-Berry: Z-80 computer
+https://sites.google.com/site/zberrysbc/home
+
+Show HN: Snips is a AI Voice Assistant platform 100% on-device and private
+https://snips.ai
+
+Emmanuel Macron presidency prompts French startup boom
+https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html
+
+Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1
+http://www.umooc.org
+
+Twitter, but for Math, with Toots
+http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/
+
+SSH Check – public SSH server testing tool
+http://sshcheck.com
+
+I spent 29 years in solitary confinement (2010)
+https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print
+
+Our dirty little secret: Cross-platform email client with nothing but HTML
+https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+
+Date: 16+'
+
+'World Bank-Sponsored Report Shows 200% ROI on Open Source Participation
+https://osenetwork.com/2017/06/13/bombshell-report-200-roi-on-open-source-participation/
+
+DeepMind Open Source Datasets
+https://deepmind.com/research/open-source/open-source-datasets/
+
+TLA+ in Practice and Theory, Part 4: Order in TLA+
+https://pron.github.io/posts/tlaplus_part4
+
+Ableton Live Redesign
+http://nenadmilosevic.co/ableton-live-redesign/
+
+The Crypto Anarchist Manifesto (1988)
+http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+
+CouchDB vs. MongoDB – Thorough comparison
+http://blog.panoply.io/couchdb-vs-mongodb
+
+Lyft Climate Impact Goals
+https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals
+
+U.S. Invests $258M in Supercomputing Race with China
+https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600
+
+Software NRSC-5 Receiver
+https://github.com/theori-io/nrsc5
+
+America’s Health-Care Crisis Is a Gold Mine for Crowdfunding
+https://www.bloomberg.com/news/articles/2017-06-12/america-s-health-care-crisis-is-a-gold-mine-for-crowdfunding
+
+No correlation between headphone frequency response and retail price
+http://asa.scitation.org/doi/10.1121/1.4984044
+
+If you can’t explain something in simple terms, you don’t understand it
+http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+
+Catfish Programmers
+https://www.butternotes.com/blog/catfish-programmers
+
+The newest and costliest U.S. aircraft carrier has been dogged by trouble
+https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes
+
+Uber rape victim sues Uber, says execs got her medical records
+https://arstechnica.com/tech-policy/2017/06/uber-rape-victim-sues-uber-says-execs-got-her-medical-records/
+
+AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes
+http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/
+
+Pancreatic cancer from a different perspective
+https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/
+
+Overexposure to insecticides has bred resistance in lice
+https://www.scientificamerican.com/article/revenge-of-the-super-lice/
+
+Twitter, but for Math, with Toots
+http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/
+
+Telegram founder: US intelligence tried to bribe us to weaken encryption
+https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876
+
+How female elk adjust behaviour with age to avoid hunters
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable
+
+Snap's share price sinks, trades just above IPO price
+http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941
+
+Z-Berry: Z-80 computer
+https://sites.google.com/site/zberrysbc/home
+
+Emmanuel Macron presidency prompts French startup boom
+https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html
+
+Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1
+http://www.umooc.org
+
+SSH Check – public SSH server testing tool
+http://sshcheck.com
+
+I spent 29 years in solitary confinement (2010)
+https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print
+
+Our dirty little secret: Cross-platform email client with nothing but HTML
+https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+
+Europe mostly ends mobile roaming fees from today
+https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today
+
+Date: 16+'
+
+'World Bank-Sponsored Report Shows 200% ROI on Open Source Participation
+https://osenetwork.com/2017/06/13/bombshell-report-200-roi-on-open-source-participation/
+
+DeepMind Open Source Datasets
+https://deepmind.com/research/open-source/open-source-datasets/
+
+TLA+ in Practice and Theory, Part 4: Order in TLA+
+https://pron.github.io/posts/tlaplus_part4
+
+Ableton Live Redesign
+http://nenadmilosevic.co/ableton-live-redesign/
+
+The Crypto Anarchist Manifesto (1988)
+http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+
+CouchDB vs. MongoDB – Thorough comparison
+http://blog.panoply.io/couchdb-vs-mongodb
+
+Lyft Climate Impact Goals
+https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals
+
+U.S. Invests $258M in Supercomputing Race with China
+https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600
+
+Software NRSC-5 Receiver
+https://github.com/theori-io/nrsc5
+
+America’s Health-Care Crisis Is a Gold Mine for Crowdfunding
+https://www.bloomberg.com/news/articles/2017-06-12/america-s-health-care-crisis-is-a-gold-mine-for-crowdfunding
+
+No correlation between headphone frequency response and retail price
+http://asa.scitation.org/doi/10.1121/1.4984044
+
+If you can’t explain something in simple terms, you don’t understand it
+http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+
+Catfish Programmers
+https://www.butternotes.com/blog/catfish-programmers
+
+The newest and costliest U.S. aircraft carrier has been dogged by trouble
+https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes
+
+Uber rape victim sues Uber, says execs got her medical records
+https://arstechnica.com/tech-policy/2017/06/uber-rape-victim-sues-uber-says-execs-got-her-medical-records/
+
+AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes
+http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/
+
+Pancreatic cancer from a different perspective
+https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/
+
+Overexposure to insecticides has bred resistance in lice
+https://www.scientificamerican.com/article/revenge-of-the-super-lice/
+
+Twitter, but for Math, with Toots
+http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/
+
+Telegram founder: US intelligence tried to bribe us to weaken encryption
+https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876
+
+How female elk adjust behaviour with age to avoid hunters
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable
+
+Snap's share price sinks, trades just above IPO price
+http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941
+
+Z-Berry: Z-80 computer
+https://sites.google.com/site/zberrysbc/home
+
+Emmanuel Macron presidency prompts French startup boom
+https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html
+
+Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1
+http://www.umooc.org
+
+SSH Check – public SSH server testing tool
+http://sshcheck.com
+
+I spent 29 years in solitary confinement (2010)
+https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print
+
+Our dirty little secret: Cross-platform email client with nothing but HTML
+https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+
+Europe mostly ends mobile roaming fees from today
+https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today
+
+Date: 16'
+
+'World Bank-Sponsored Report Shows 200% ROI on Open Source Participation
+https://osenetwork.com/2017/06/13/bombshell-report-200-roi-on-open-source-participation/
+
+DeepMind Open Source Datasets
+https://deepmind.com/research/open-source/open-source-datasets/
+
+TLA+ in Practice and Theory, Part 4: Order in TLA+
+https://pron.github.io/posts/tlaplus_part4
+
+Ableton Live Redesign
+http://nenadmilosevic.co/ableton-live-redesign/
+
+The Crypto Anarchist Manifesto (1988)
+http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
+
+CouchDB vs. MongoDB – Thorough comparison
+http://blog.panoply.io/couchdb-vs-mongodb
+
+Lyft Climate Impact Goals
+https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals
+
+Software NRSC-5 Receiver
+https://github.com/theori-io/nrsc5
+
+U.S. Invests $258M in Supercomputing Race with China
+https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600
+
+America’s Health-Care Crisis Is a Gold Mine for Crowdfunding
+https://www.bloomberg.com/news/articles/2017-06-12/america-s-health-care-crisis-is-a-gold-mine-for-crowdfunding
+
+No correlation between headphone frequency response and retail price
+http://asa.scitation.org/doi/10.1121/1.4984044
+
+If you can’t explain something in simple terms, you don’t understand it
+http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+
+Catfish Programmers
+https://www.butternotes.com/blog/catfish-programmers
+
+The newest and costliest U.S. aircraft carrier has been dogged by trouble
+https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes
+
+Uber rape victim sues Uber, says execs got her medical records
+https://arstechnica.com/tech-policy/2017/06/uber-rape-victim-sues-uber-says-execs-got-her-medical-records/
+
+AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes
+http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/
+
+Pancreatic cancer from a different perspective
+https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/
+
+Overexposure to insecticides has bred resistance in lice
+https://www.scientificamerican.com/article/revenge-of-the-super-lice/
+
+Twitter, but for Math, with Toots
+http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/
+
+Telegram founder: US intelligence tried to bribe us to weaken encryption
+https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876
+
+How female elk adjust behaviour with age to avoid hunters
+http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable
+
+Z-Berry: Z-80 computer
+https://sites.google.com/site/zberrysbc/home
+
+Emmanuel Macron presidency prompts French startup boom
+https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html
+
+Snap's share price sinks, trades just above IPO price
+http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941
+
+Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1
+http://www.umooc.org
+
+SSH Check – public SSH server testing tool
+http://sshcheck.com
+
+I spent 29 years in solitary confinement (2010)
+https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print
+
+Our dirty little secret: Cross-platform email client with nothing but HTML
+https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02
+
+Europe mostly ends mobile roaming fees from today
+https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today
+
