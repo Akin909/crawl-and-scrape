@@ -5,9 +5,6 @@ const URL = require('url-parse');
 const startURL = 'http://www.arstechnica.com';
 const searchWord = 'react';
 const maxPagesToVisit = 10;
-//const pagesVisited = {};
-//const pagesToVisit = [];
-//let numPagesVisited = 0;
 const url = new URL(startURL);
 const baseUrl = url.protocol + '//' + url.hostname;
 
@@ -21,15 +18,13 @@ const config = {
 crawl(config);
 
 function crawl(config) {
-  //const { max, pagesVisited, pagesToVisit, numPagesVisited } = config;
   if (config.numPagesVisited >= config.max) {
     return console.log('Reached max limit of number of pages to visit');
   }
+  console.log('Visiting page', config.pagesToVisit);
   let nextPage = config.pagesToVisit.pop();
-  console.log('Visiting page', nextPage);
   if (nextPage in config.pagesVisited) {
     //Page already visited so continue crawl
-    console.log('nextPage', nextPage);
     crawl(config);
   } else {
     //new page
@@ -48,12 +43,11 @@ function visitPage(url, config, fn) {
   axios(url)
     .then(res => {
       const ch = cheerio.load(res.data);
-      let isWordFound = searchWord(ch, config.searchWord);
+      let isWordFound = searchForWord(ch, config.searchWord);
       console.log('Page title: ', ch('title').text());
       if (isWordFound) {
         console.log(`Word: ${config.searchWord} found at ${url}`);
       } else {
-        console.log('collectInternalLinks');
         collectInternalLinks(ch, config);
         fn(config);
       }
@@ -69,7 +63,6 @@ function collectInternalLinks(ch, config) {
   relativeLinks.each(function() {
     allRelativeLinks.push(ch(this).attr('href'));
     config.pagesToVisit.push(baseUrl + ch(this).attr('href'));
-    console.log('pages', config.pagesToVisit);
   });
 
   const absoluteLinks = ch('a[href^="http"]');
