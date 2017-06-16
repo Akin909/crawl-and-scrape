@@ -16,12 +16,12 @@ const promisify = (fn, args) => {
 const sites = [
   {
     url: 'https://news.ycombinator.com/news',
-    output: 'hackernews.txt',
+    output: 'hackernews',
     handler: getNews
   },
   {
     url: 'https://news.ycombinator.com/jobs',
-    output: 'hackernewsJobs.txt',
+    output: 'hackernewsJobs',
     handler: getJobs
   }
 ];
@@ -29,8 +29,14 @@ const data = sites.map(topic =>
   axios(topic.url).then(res => parseHtml(res.data, topic.output, topic.handler))
 );
 
-function append(output, data, link) {
-  fs.appendFileSync(output, `${data}\n ${link}\n\n`);
+function append(output, data, link, format = '.json') {
+  const outputFile = output + format;
+  if (format === '.json') {
+    const json = JSON.stringify({ link, data });
+    fs.appendFileSync(outputFile, json + `,\n`);
+  } else if (format === '.txt') {
+    fs.appendFileSync(outputFile, `${data}\n ${link}\n\n`);
+  }
 }
 
 const parseHtml = (htmlString, output, parseFn) => {
