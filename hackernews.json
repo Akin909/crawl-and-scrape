@@ -1,718 +1,118 @@
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"}
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"}
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"}
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"}
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"}
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"}
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"}
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"}
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"}
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"}
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"}
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"}
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"}
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"}
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"}
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"}
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"}
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"}
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"}
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"}
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"}
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"}
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"}
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"}
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"}
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"}
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"}
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"}
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"}
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"}
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"}
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"}
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"}
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"}
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"}
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"}
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"}
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"}
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"}
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"}
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"}
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"}
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"}
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"}
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"}
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"}
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"}
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"}
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"}
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"}
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"}
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"}
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"}
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"}
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"}
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"}
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"}
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"}
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"}
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"}
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"}
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"}
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"}
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"}
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"}
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"}
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"}
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"}
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"}
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"}
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"}
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"}
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"}
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"}
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"}
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"}
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"}
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"}
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"}
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"}
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"}
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"}
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"}
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"}
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"}
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"}
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"}
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"}
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"}
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"}
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"}
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"}
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"}
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"}
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"}
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"}
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"}
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"}
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"}
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"}
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"}
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"}
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"}
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"}
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"}
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"}
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"}
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"}
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"}
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"}
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"}
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"}
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"}
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"}
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"}
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"}
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"}
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"}
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"}
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"}
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"}
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"}
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"}
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"}
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"}
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"}
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"}
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"}
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"}
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"}
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"}
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"}
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"}
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"}
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"}
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"}
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"}
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"}
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"}
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"}
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"}
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"}
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"}
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"}
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"}
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"}
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"}
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"}
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"}
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"}
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"}
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"}
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"}
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"}
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"}
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"}
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"}
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"}
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"}
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"}
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"}
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"}
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"}
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"}
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"}
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"}
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"}
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"}
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"}
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"}
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"}
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"}
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"}
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"}
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"}
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"}
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"}
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"}
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"}
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"}
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"}
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"}
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"}
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"}
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"}
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"}
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"}
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"}
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"}
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"}
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"}
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"}
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"}
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"http://sshcheck.com","data":"SSH Check – public SSH server testing tool"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today","data":"Europe mostly ends mobile roaming fees from today"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today","data":"Europe mostly ends mobile roaming fees from today"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today","data":"Europe mostly ends mobile roaming fees from today"},
-{"link":"https://deepmind.com/research/open-source/open-source-datasets/","data":"Open Source Datasets"},
-{"link":"https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600","data":"U.S. Invests $258M in Supercomputing Race with China"},
-{"link":"http://nenadmilosevic.co/ableton-live-redesign/","data":"Ableton Live Redesign"},
-{"link":"https://pron.github.io/posts/tlaplus_part4","data":"TLA+ in Practice and Theory, Part 4: Order in TLA+"},
-{"link":"http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html","data":"The Crypto Anarchist Manifesto (1988)"},
-{"link":"https://github.com/theori-io/nrsc5","data":"Software NRSC-5 Receiver"},
-{"link":"http://asa.scitation.org/doi/10.1121/1.4984044","data":"No correlation between headphone frequency response and retail price"},
-{"link":"http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/","data":"Twitter, but for Math, with Toots"},
-{"link":"https://www.butternotes.com/blog/catfish-programmers","data":"Catfish Programmers"},
-{"link":"https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open","data":"New analysis reveals significant ROI in open source technologies"},
-{"link":"http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it","data":"If you can’t explain something in simple terms, you don’t understand it"},
-{"link":"http://jacquesmattheij.com/i-blame-the-babel-fish","data":"I Blame the Babel Fish"},
-{"link":"https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/","data":"Air Force budget reveals how much SpaceX undercuts launch prices"},
-{"link":"https://www.scientificamerican.com/article/revenge-of-the-super-lice/","data":"Overexposure to insecticides has bred resistance in lice"},
-{"link":"http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/","data":"AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"},
-{"link":"https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/","data":"Pancreatic cancer from a different perspective"},
-{"link":"http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable","data":"How female elk adjust behaviour with age to avoid hunters"},
-{"link":"https://sites.google.com/site/zberrysbc/home","data":"Z-Berry: Z-80 computer"},
-{"link":"https://www.bloomberg.com/news/articles/2017-06-15/new-u-s-carrier-hobbled-by-flaws-in-launching-landing-planes","data":"The newest and costliest U.S. aircraft carrier has been dogged by trouble"},
-{"link":"https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876","data":"Telegram founder: US intelligence tried to bribe us to weaken encryption"},
-{"link":"http://blog.panoply.io/couchdb-vs-mongodb","data":"CouchDB vs. MongoDB"},
-{"link":"http://www.umooc.org","data":"Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"},
-{"link":"https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals","data":"Climate Impact Goals"},
-{"link":"https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt","data":"An excerpt from “The One Device” – origin story of the iPhone"},
-{"link":"https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html","data":"Emmanuel Macron presidency prompts French startup boom"},
-{"link":"https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print","data":"I spent 29 years in solitary confinement (2010)"},
-{"link":"http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941","data":"Snap's share price sinks, trades just above IPO price"},
-{"link":"https://medium.com/missive-app/our-dirty-little-secret-cross-platform-email-client-with-nothing-but-html-aa12fc33bb02","data":"Our dirty little secret: Cross-platform email client with nothing but HTML"},
-{"link":"https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today","data":"Europe mostly ends mobile roaming fees from today"},
+Date: 1:41:28 AM
+
+{
+  "link": "https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it",
+  "data": "American Chipmakers Had a Toxic Problem. Then They Outsourced It"
+},
+{
+  "link": "https://deepmind.com/research/open-source/open-source-datasets/",
+  "data": "Open Source Datasets"
+},
+{
+  "link": "https://www.wsj.com/articles/u-s-invests-258-million-in-supercomputing-race-with-china-1497549600",
+  "data": "U.S. Invests $258M in Supercomputing Race with China"
+},
+{
+  "link": "http://nenadmilosevic.co/ableton-live-redesign/",
+  "data": "Ableton Live Redesign"
+},
+{
+  "link": "https://pron.github.io/posts/tlaplus_part4",
+  "data": "TLA+ in Practice and Theory, Part 4: Order in TLA+"
+},
+{
+  "link": "http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html",
+  "data": "The Crypto Anarchist Manifesto (1988)"
+},
+{
+  "link": "http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/",
+  "data": "Twitter, but for Math, with Toots"
+},
+{
+  "link": "https://github.com/theori-io/nrsc5",
+  "data": "Software NRSC-5 Receiver"
+},
+{
+  "link": "http://jacquesmattheij.com/i-blame-the-babel-fish",
+  "data": "I Blame the Babel Fish"
+},
+{
+  "link": "http://asa.scitation.org/doi/10.1121/1.4984044",
+  "data": "No correlation between headphone frequency response and retail price"
+},
+{
+  "link": "https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/",
+  "data": "Air Force budget reveals how much SpaceX undercuts launch prices"
+},
+{
+  "link": "https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open",
+  "data": "New analysis reveals significant ROI in open source technologies"
+},
+{
+  "link": "https://www.butternotes.com/blog/catfish-programmers",
+  "data": "Catfish Programmers"
+},
+{
+  "link": "http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+  "data": "If you can’t explain something in simple terms, you don’t understand it"
+},
+{
+  "link": "https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/",
+  "data": "Pancreatic cancer from a different perspective"
+},
+{
+  "link": "http://www.umooc.org",
+  "data": "Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"
+},
+{
+  "link": "https://www.scientificamerican.com/article/revenge-of-the-super-lice/",
+  "data": "Overexposure to insecticides has bred resistance in lice"
+},
+{
+  "link": "http://wccftech.com/amd-epyc-7000-series-server-cpu-family-specifications-price-performance-leak/",
+  "data": "AMD EPYC 7000 CPUs: 32 cores, 64 threads, 8 memory channels, 128 PCIe lanes"
+},
+{
+  "link": "http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0178082&type=printable",
+  "data": "How female elk adjust behaviour with age to avoid hunters"
+},
+{
+  "link": "https://news.fastcompany.com/telegram-founder-us-intelligence-agencies-tried-to-bribe-us-to-weaken-encryption-4040876",
+  "data": "Telegram founder: US intelligence tried to bribe us to weaken encryption"
+},
+{
+  "link": "https://sites.google.com/site/zberrysbc/home",
+  "data": "Z-Berry: Z-80 computer"
+},
+{
+  "link": "http://blog.panoply.io/couchdb-vs-mongodb",
+  "data": "CouchDB vs. MongoDB"
+},
+{
+  "link": "http://publicdomainreview.org/2017/06/14/decoding-the-morse-the-history-of-16th-century-narcoleptic-walruses/",
+  "data": "Decoding the Morse: The History of 16th-Century Narcoleptic Walruses"
+},
+{
+  "link": "https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt",
+  "data": "An excerpt from “The One Device” – origin story of the iPhone"
+},
+{
+  "link": "https://www.theguardian.com/lifeandstyle/2010/aug/28/29-years-solitary-confinement-robert-king/print",
+  "data": "I spent 29 years in solitary confinement (2010)"
+},
+{
+  "link": "https://www.independent.co.uk/news/business/news/emmanuel-macron-president-french-startup-boom-france-investment-bank-bpifrance-a7790981.html",
+  "data": "Emmanuel Macron presidency prompts French startup boom"
+},
+{
+  "link": "https://blog.lyft.com/posts/2017/6/14/lyft-climate-impact-goals",
+  "data": "Climate Impact Goals"
+},
+{
+  "link": "http://nasdaq.com/article/snaps-share-price-sinks-trades-just-above-ipo-price-20170615-00941",
+  "data": "Snap's share price sinks, trades just above IPO price"
+},
+{
+  "link": "https://techcrunch.com/2017/06/15/europe-mostly-ends-mobile-roaming-fees-from-today",
+  "data": "Europe mostly ends mobile roaming fees from today"
+},

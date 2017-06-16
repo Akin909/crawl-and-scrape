@@ -1,48 +1,69 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
 const fs = require('fs');
+const util = require('util');
 
-const promisify = (fn, args) => {
-  new Promise((resolve, rej) => {
+const writeFile = util.promisify(fs.writeFile);
+
+function curry(fn) {
+  return function() {
+    if (fn.length > arguments.length) {
+      const slice = Array.prototype.slice;
+      const args = slice.apply(arguments);
+      return function() {
+        return fn.apply(null, args.concat(slice.apply(arguments)));
+      };
+    }
+    return fn.apply(null, arguments);
+  };
+}
+
+const promisify = curry((fn, args) => {
+  new Promise((resolve, reject) => {
     return fn(args, (err, res) => {
       if (err) {
-        return rej(err.message);
+        return reject(err.message);
       }
       return resolve(res);
     });
   });
-};
+});
 
 const sites = [
   {
     url: 'https://news.ycombinator.com/news',
     output: 'hackernews',
-    handler: getNews
+    handler: getNews,
+    format: '.json'
   },
   {
     url: 'https://news.ycombinator.com/jobs',
     output: 'hackernewsJobs',
-    handler: getJobs
+    handler: getJobs,
+    format: '.txt'
   }
 ];
-const data = sites.map(topic =>
-  axios(topic.url).then(res => parseHtml(res.data, topic.output, topic.handler))
-);
+const data = sites.map(topic => {
+  const { url, handler, output, format } = topic;
+  return axios(url).then(res => parseHtml(res.data, output, handler, format));
+});
 
 function append(output, data, link, format = '.json') {
   const outputFile = output + format;
   if (format === '.json') {
-    const json = JSON.stringify({ link, data });
+    const json = JSON.stringify({ link, data }, null, 2);
     fs.appendFileSync(outputFile, json + `,\n`);
   } else if (format === '.txt') {
     fs.appendFileSync(outputFile, `${data}\n ${link}\n\n`);
   }
 }
 
-const parseHtml = (htmlString, output, parseFn) => {
+const parseHtml = (htmlString, output, parseFn, format) => {
   const ch = cheerio.load(htmlString);
-  fs.writeFileSync(output, `Date: ${new Date().toLocaleTimeString()}\n\n`);
-  return parseFn(ch, output);
+  writeFile(
+    output + format,
+    `Date: ${new Date().toLocaleTimeString()}\n\n`
+  ).then(() => parseFn(ch, output));
 };
 
 function getNews(ch, output) {
