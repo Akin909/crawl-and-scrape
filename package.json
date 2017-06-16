@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
-    "cheerio": "^1.0.0-rc.1"
+    "cheerio": "^1.0.0-rc.1",
+    "url-parse": "^1.1.9"
   }
 }
