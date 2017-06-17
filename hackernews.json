@@ -1,122 +1,118 @@
-Date: 1:56:01 PM
+Date: 8:23:05 PM
 
+{
+  "link": "https://www.bloomberg.com/news/articles/2017-06-16/amazon-to-buy-whole-foods?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social",
+  "data": "Amazon to Acquire Whole Foods for $13.7B"
+},
+{
+  "link": "https://techcrunch.com/2017/06/16/object-detection-api",
+  "data": "Google Releases New TensorFlow Object Detection API"
+},
+{
+  "link": "https://www.startupschool.org/presentations/",
+  "data": "Startup School 2017 Presentations"
+},
 {
   "link": "https://manual.calibre-ebook.com/server.html",
   "data": "The Calibre Content Server"
 },
 {
-  "link": "http://www.bbc.com/future/story/20170616-garry-kasparov-why-the-world-should-embrace-ai?ocid=global_future_rss",
-  "data": "Garry Kasparov: Why the world should embrace AI [video]"
+  "link": "https://techcrunch.com/2017/06/15/justin-kan-atrium-lts-funding/",
+  "data": "Justin Kan Raises $10M for New Legal Startup"
 },
 {
-  "link": "https://www.washingtonpost.com/news/in-theory/wp/2016/07/27/heres-what-american-universities-can-learn-from-germany/",
-  "data": "Here’s what American universities can learn from Germany (2016)"
+  "link": "https://standardebooks.org/",
+  "data": "Standard Ebooks: Free and liberated ebooks, carefully produced"
 },
 {
-  "link": "http://nullprogram.com/blog/2017/06/15/",
-  "data": "Switching to the Mutt Email Client"
+  "link": "https://www.nytimes.com/2017/06/16/business/walmart-bonobos-merger.html",
+  "data": "Walmart to Buy Bonobos, Men’s Wear Company, for $310M"
 },
 {
-  "link": "https://www.nature.com/news/polynesian-people-used-binary-numbers-600-years-ago-1.14380",
-  "data": "Polynesian people used binary numbers 600 years ago"
+  "link": "https://mtlynch.io/stole-siacoins/",
+  "data": "How I Stole a User's Siacoin"
 },
 {
-  "link": "https://deepmind.com/research/open-source/open-source-datasets/",
-  "data": "Open Source Datasets"
+  "link": "http://www.atlasobscura.com/articles/cs-lewis-greatest-fiction-convincing-american-kids-that-they-would-like-turkish-delight",
+  "data": "C.S. Lewis's Greatest Fiction Was Telling Kids They Would Like Turkish Delight"
+},
+{
+  "link": "http://eprint.iacr.org/2017/468.pdf",
+  "data": "Attacks on Encrypted Databases [pdf]"
+},
+{
+  "link": "https://www.washingtonpost.com/news/innovations/wp/2017/06/16/amazon-has-a-patent-to-keep-you-from-comparison-shopping-while-youre-in-its-stores/",
+  "data": "Amazon has a patent to keep people from comparison shopping in stores"
+},
+{
+  "link": "http://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Linear-Transformations",
+  "data": "Clojure Linear Algebra Refresher, Part 4: Linear Transformations"
+},
+{
+  "link": "http://orgmode.org/orgcard.pdf",
+  "data": "Org-mode reference card [pdf]"
+},
+{
+  "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/lecture-videos/lecture-16-np-and-pspace-video-games/",
+  "data": "NP and PSPACE Video Games Lecture [video]"
+},
+{
+  "link": "https://arxiv.org/html/1202.4212v2",
+  "data": "Harmony Explained: Progress Towards a Scientific Theory of Music (2014)"
+},
+{
+  "link": "https://blog.ycombinator.com/at-the-intersection-of-ai-governments-and-google-tim-hwang/",
+  "data": "At the Intersection of AI, Governments, and Google – Tim Hwang [audio]"
+},
+{
+  "link": "https://motherboard.vice.com/en_us/article/you-cant-open-the-microsoft-surface-laptop-without-literally-destroying-it",
+  "data": "You Can’t Open the Microsoft Surface Laptop Without Literally Destroying It"
+},
+{
+  "link": "https://blog.linode.com/2017/06/16/linode-turns-14/",
+  "data": "Linode Turns 14"
+},
+{
+  "link": "http://www.nytimes.com/2013/04/07/magazine/one-tiny-german-town-seven-big-michelin-stars.html?pagewanted=all",
+  "data": "One Tiny German Town, Seven Big Michelin Stars (2013)"
+},
+{
+  "link": "https://daily.jstor.org/glass-house-ideal-home-communist-gynecologist",
+  "data": "The Maison de Verre, one of the world's best-preserved modernist buildings"
+},
+{
+  "link": "http://incoherency.co.uk/blog/stories/anonymousbtcsms-scam.html",
+  "data": "Someone cloned my website and is using it to scam people"
+},
+{
+  "link": "https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List",
+  "data": "Open source deep learning models that programmers can download and run first try"
 },
 {
   "link": "https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell/",
   "data": "Things that Idris improves things over Haskell"
 },
 {
-  "link": "https://www.bloomberg.com/news/articles/2017-06-15/the-former-used-car-salesman-who-s-squeezing-paper-from-a-stone",
-  "data": "A Startup Making Paper Out of Stone, Not Trees"
+  "link": "http://www.the-tls.co.uk/articles/public/virginia-woolf-queen-of-arts/",
+  "data": "Queen of arts: on Virginia Woolf"
 },
 {
-  "link": "http://nenadmilosevic.co/ableton-live-redesign/",
-  "data": "Ableton Live Redesign"
+  "link": "http://www.laputan.org/pub/papers/wheeler.pdf",
+  "data": "The Use of Subroutines in Programmes (1951) [pdf]"
 },
 {
-  "link": "http://mattwarren.org/2017/06/15/How-the-.NET-Rutime-loads-a-Type/",
-  "data": "How the .NET Runtime Loads a Type"
+  "link": "http://www.ishir.com/blog/4621/power-bi-microsofts-business-intelligence-set-tools-getting-smarter.htm/",
+  "data": "Power BI, Microsoft’s Business Intelligence set of tools, is getting smarter"
 },
 {
-  "link": "http://keccak.noekeon.org/is_sha3_slow.html",
-  "data": "Is SHA-3 slow?"
-},
-{
-  "link": "http://blogs.ams.org/blogonmathblogs/2017/06/08/twitter-but-for-math-with-toots/",
-  "data": "Twitter, but for Math, with Toots"
+  "link": "http://nullprogram.com/blog/2017/06/15/",
+  "data": "Switching to the Mutt Email Client"
 },
 {
   "link": "https://blog.hboeck.de/archives/887-Dont-leave-Coredumps-on-Web-Servers.html",
   "data": "Don't Leave Coredumps on Web Servers"
 },
 {
-  "link": "https://www.scientificamerican.com/article/china-shatters-ldquo-spooky-action-at-a-distance-rdquo-record-preps-for-quantum-internet/",
-  "data": "Chinese scientists test quantum entanglement over unprecedented distance"
-},
-{
-  "link": "http://blog.atom.io/2017/06/13/atom-1-18.html",
-  "data": "Atom 1.18 released"
-},
-{
-  "link": "https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List",
-  "data": "Examples to get started with Deep Learning without learning any of the math"
-},
-{
-  "link": "https://www.bloomberg.com/news/features/2017-06-15/american-chipmakers-had-a-toxic-problem-so-they-outsourced-it",
-  "data": "American Chipmakers Had a Toxic Problem, Then They Outsourced It"
-},
-{
-  "link": "http://www.cpmt.org/scv/meetings/chua.pdf",
-  "data": "Memristor – The missing circuit element (1971) [pdf]"
-},
-{
-  "link": "https://pron.github.io/posts/tlaplus_part4",
-  "data": "TLA+ in Practice and Theory, Part 4: Order in TLA+"
-},
-{
-  "link": "item?id=14567823",
-  "data": "Ask HN: Tech-cofounder feeling lost/burned-out. What to do?"
-},
-{
-  "link": "http://physicsworld.com/cws/article/news/2017/jun/16/entanglement-distributed-over-1200-km-by-quantum-satellite",
-  "data": "Entanglement distributed over 1200 km by quantum satellite"
-},
-{
-  "link": "https://newsroom.fb.com/news/2017/06/hard-questions/",
-  "data": "Hard Questions"
-},
-{
-  "link": "https://medium.freecodecamp.com/how-we-got-1-500-github-stars-by-mixing-time-tested-technology-with-a-fresh-ui-b310551cba22",
-  "data": "How we got 1,500 GitHub stars by mixing time-tested technology with a fresh UI"
-},
-{
-  "link": "http://www.umooc.org",
-  "data": "Show HN: uMOOC, an online tutoring platform for Harvard's CS50 and MIT's 6.00.1"
-},
-{
-  "link": "http://hackingdistributed.com/2014/02/14/chainsets/",
-  "data": "Copysets and Chainsets: A Better Way to Replicate (2014)"
-},
-{
-  "link": "https://longreads.com/2017/06/13/a-sociology-of-the-smartphone/",
-  "data": "A Sociology of the Smartphone"
-},
-{
-  "link": "https://arstechnica.com/science/2017/06/air-force-budget-reveals-how-much-spacex-undercuts-launch-prices/",
-  "data": "Air Force budget reveals how much SpaceX undercuts launch prices"
-},
-{
-  "link": "https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open",
-  "data": "New analysis reveals significant ROI in open source technologies"
-},
-{
-  "link": "https://directorsblog.nih.gov/2017/06/15/snapshots-of-life-a-van-gogh-moment-for-pancreatic-cancer/",
-  "data": "Pancreatic cancer from a different perspective"
-},
-{
-  "link": "https://www.butternotes.com/blog/catfish-programmers",
-  "data": "Catfish Programmers"
+  "link": "https://circleci.com/blog/how-to-get-hired-at-circleci/",
+  "data": "How to Get Hired at CircleCI"
 },

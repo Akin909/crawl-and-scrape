@@ -69,6 +69,6 @@ function collectInternalLinks(ch, config) {
   absoluteLinks.each(function() {
     allAbsoluteLinks.push(ch(this).attr('href'));
   });
-  console.log(`Found: , ${allRelativeLinks.length} relative links`);
-  console.log(`Found: , ${allAbsoluteLinks.length} absolute links`);
+  console.log(`Found: ${allRelativeLinks.length} relative links`);
+  console.log(`Found: ${allAbsoluteLinks.length} absolute links`);
 }

@@ -4,6 +4,7 @@ const fs = require('fs');
 const util = require('util');
 
 const writeFile = util.promisify(fs.writeFile);
+const readFile = util.promisify(fs.readFile);
 
 function curry(fn) {
   return function() {
@@ -43,49 +44,65 @@ const sites = [
     format: '.txt'
   }
 ];
-const data = sites.map(topic => {
-  const { url, handler, output, format } = topic;
-  return axios(url).then(res => parseHtml(res.data, output, handler, format));
-});
 
 function append(output, data, link, format = '.json') {
   const outputFile = output + format;
   if (format === '.json') {
     const json = JSON.stringify({ link, data }, null, 2);
     fs.appendFileSync(outputFile, json + `,\n`);
+    return json;
   } else if (format === '.txt') {
     fs.appendFileSync(outputFile, `${data}\n ${link}\n\n`);
+    return {
+      data,
+      link
+    };
   }
 }
 
 const parseHtml = (htmlString, output, parseFn, format) => {
   const ch = cheerio.load(htmlString);
-  writeFile(
+  return writeFile(
     output + format,
     `Date: ${new Date().toLocaleTimeString()}\n\n`
   ).then(() => parseFn(ch, output));
 };
 
 function getNews(ch, output) {
-  ch('tr.athing:has(td.votelinks)').each(function(index) {
+  return ch('tr.athing:has(td.votelinks)').map(function(index) {
     const title = ch(this).find('td.title > a').text().trim();
     const link = ch(this).find('td.title > a').attr('href');
-    append(output, title, link);
-    return {
-      title,
-      link
-    };
+    return append(output, title, link);
   });
 }
 
 function getJobs(ch, output) {
-  ch('tr.athing:has(td.title)').each(function(index) {
+  return ch('tr.athing:has(td.title)').map(function(index) {
     const job = ch(this).find('td.title > a').text().trim();
     const jobLink = ch(this).find('td.title > a').attr('href');
-    append(output, job, jobLink);
-    return {
-      job,
-      jobLink
-    };
+    return append(output, job, jobLink);
   });
+}
+
+export function getScrapings(req, res) {
+  Promise.all(
+    sites.map(topic => {
+      const { url, handler, output, format } = topic;
+      return axios(url).then(res =>
+        parseHtml(res.data, output, handler, format)
+      );
+    })
+  )
+    .then(finalResult => finalResult)
+    .then(result => {
+      if (typeof result !== 'string') {
+        const jsonRes = JSON.stringify(result);
+        console.log('res', result);
+        res.send(jsonRes);
+      }
+      res.send(result);
+    });
+  //readFile('hackernewsJobs.json', 'utf8').then(json => {
+  //res.send(json);
+  //});
 }
