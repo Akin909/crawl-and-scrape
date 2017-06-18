@@ -1,10 +1,10 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
 const fs = require('fs');
-const util = require('util');
+const promisify = require('util.promisify');
 
-const writeFile = util.promisify(fs.writeFile);
-const readFile = util.promisify(fs.readFile);
+const writeFile = promisify(fs.writeFile);
+const readFile = promisify(fs.readFile);
 
 function curry(fn) {
   return function() {
@@ -19,7 +19,7 @@ function curry(fn) {
   };
 }
 
-const promisify = curry((fn, args) => {
+const Promisify = curry((fn, args) => {
   new Promise((resolve, reject) => {
     return fn(args, (err, res) => {
       if (err) {
