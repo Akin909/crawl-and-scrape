@@ -7,10 +7,10 @@ exports.getScrapings = getScrapings;
 var cheerio = require('cheerio');
 var axios = require('axios');
 var fs = require('fs');
-var util = require('util');
+var promisify = require('util.promisify');
 
-var writeFile = util.promisify(fs.writeFile);
-var readFile = util.promisify(fs.readFile);
+var writeFile = promisify(fs.writeFile);
+var readFile = promisify(fs.readFile);
 
 function curry(fn) {
   return function () {
@@ -25,7 +25,7 @@ function curry(fn) {
   };
 }
 
-var promisify = curry(function (fn, args) {
+var Promisify = curry(function (fn, args) {
   new Promise(function (resolve, reject) {
     return fn(args, function (err, res) {
       if (err) {
