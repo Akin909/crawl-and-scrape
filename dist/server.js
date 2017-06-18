@@ -4,10 +4,6 @@ var _express = require('express');
 
 var _express2 = _interopRequireDefault(_express);
 
-var _cors = require('cors');
-
-var _cors2 = _interopRequireDefault(_cors);
-
 var _bodyParser = require('body-parser');
 
 var _bodyParser2 = _interopRequireDefault(_bodyParser);
@@ -19,8 +15,6 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var app = (0, _express2.default)();
 var PORT = process.env.PORT || 3005;
 
-app.use('*', (0, _cors2.default)({ origin: 'http://localhost:3000' }));
-
 //app.get('/crawl', getCrawling());
 
 app.get('/scrapings', function (req, res) {
@@ -28,5 +22,5 @@ app.get('/scrapings', function (req, res) {
 });
 
 app.listen(PORT, function () {
-  console.log('Its going on!! at port ' + PORT);
+  console.log('Its going on, on port ' + PORT);
 });
