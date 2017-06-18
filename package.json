@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "nodemon ./server.js --exec babel-node -e js",
+    "start": "node ./server.js",
+    "local": "nodemon ./server.js --exec babel-node -e js",
     "scrape": "node scraper.js --exec babel-node -e js",
     "crawl": "node crawler.js --exec babel-node -e js"
   },

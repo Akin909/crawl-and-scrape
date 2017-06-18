@@ -49,10 +49,14 @@ function append(output, data, link, format = '.json') {
   const outputFile = output + format;
   if (format === '.json') {
     const json = JSON.stringify({ link, data }, null, 2);
-    fs.appendFileSync(outputFile, json + `,\n`);
+    if (!process.env.HEROKU) {
+      fs.appendFileSync(outputFile, json + `,\n`);
+    }
     return json;
   } else if (format === '.txt') {
-    fs.appendFileSync(outputFile, `${data}\n ${link}\n\n`);
+    if (!process.env.HEROKU) {
+      fs.appendFileSync(outputFile, `${data}\n ${link}\n\n`);
+    }
     return {
       data,
       link
