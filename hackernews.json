@@ -1,8 +1,12 @@
-Date: 11:06:03 PM
+Date: 12:14:48 AM
 
 {
   "link": "http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html",
   "data": "Georgia Tech's free math textbook collective"
+},
+{
+  "link": "https://www.theverge.com/2017/6/18/15826064/steven-furst-babylon-5-vir-cotto-science-fiction-sidekick",
+  "data": "Steven Furst’s role on Babylon 5 was a remarkable example of a sci-fi sidekick"
 },
 {
   "link": "http://ftp.debian.org/debian/doc/dedication/dedication-9.0.txt",
@@ -13,10 +17,6 @@ Date: 11:06:03 PM
   "data": "Things you should know before using AWS’s Elasticsearch Service"
 },
 {
-  "link": "https://www.theverge.com/2017/6/18/15826064/steven-furst-babylon-5-vir-cotto-science-fiction-sidekick",
-  "data": "Steven Furst’s role on Babylon 5 was a remarkable example of a sci-fi sidekick"
-},
-{
   "link": "https://blog.google/topics/google-europe/four-steps-were-taking-today-fight-online-terror/",
   "data": "Four steps we’re taking today to fight online terror"
 },
@@ -25,20 +25,24 @@ Date: 11:06:03 PM
   "data": "Goism – Use Go instead of Emacs Lisp inside Emacs"
 },
 {
-  "link": "https://www.nytimes.com/2017/06/17/business/ge-whole-foods-ceo.html",
-  "data": "The Decline of the Baronial C.E.O"
-},
-{
-  "link": "https://dave.cheney.net/2017/06/18/simplicity-debt-redux",
-  "data": "Go and Simplicity Debt Redux"
-},
-{
   "link": "https://appfolio-engineering.squarespace.com/appfolio-engineering/2017/5/24/how-is-ruby-different-in-japan",
   "data": "How is Ruby different in Japan?"
 },
 {
+  "link": "https://www.nytimes.com/2017/06/17/business/ge-whole-foods-ceo.html",
+  "data": "The Decline of the Baronial C.E.O"
+},
+{
+  "link": "http://wiktenauer.com/wiki/Main_Page",
+  "data": "The world's largest library of historical European martial arts books"
+},
+{
   "link": "http://www.smithsonianmag.com/history/native-intelligence-109314481/?no-ist",
   "data": "Native Intelligence (2005)"
+},
+{
+  "link": "https://dave.cheney.net/2017/06/18/simplicity-debt-redux",
+  "data": "Go and Simplicity Debt Redux"
 },
 {
   "link": "http://alexbeutel.com/webgl/voronoi.html",
@@ -49,28 +53,24 @@ Date: 11:06:03 PM
   "data": "Stop Buying Things and Start Borrowing Them"
 },
 {
-  "link": "https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf",
-  "data": "What This Country Needs Is an 18¢ Piece [pdf]"
-},
-{
-  "link": "http://www.cc.gatech.edu/~turk/bio_sim/articles/metabolic_pathways.png",
-  "data": "Metabolic Pathways"
-},
-{
   "link": "http://ptribble.blogspot.com/2017/06/tweaking-binaries-with-elfedit.html",
   "data": "Tweaking binaries with elfedit"
 },
 {
-  "link": "https://gist.github.com/myshov/05800f083a0afce56e0f782314a103eb",
-  "data": "Ways to Invoke a Function in JavaScript"
+  "link": "http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html",
+  "data": "The PMCs of EC2: Measuring IPC"
 },
 {
-  "link": "https://www.ft.com/content/b4fb76a6-52dd-11e7-bfb8-997009366969",
-  "data": "Uber loses ground in US as rival Lyft accelerates"
+  "link": "https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf",
+  "data": "What This Country Needs Is an 18¢ Piece [pdf]"
 },
 {
   "link": "https://www.rferl.org/a/the-mammoth-pirates/27939865.html",
   "data": "The Mammoth Pirates"
+},
+{
+  "link": "https://www.theparisreview.org/interviews/1250/john-le-carre-the-art-of-fiction-no-149-john-le-carre",
+  "data": "John Le Carré, the Art of Fiction No. 149 (1997)"
 },
 {
   "link": "https://plato.stanford.edu/entries/time-thermo/",
@@ -81,42 +81,42 @@ Date: 11:06:03 PM
   "data": "Show HN: Passmgr – Securely store passphrases and retrieve them via commandline"
 },
 {
-  "link": "https://www.theparisreview.org/interviews/1250/john-le-carre-the-art-of-fiction-no-149-john-le-carre",
-  "data": "John Le Carré, the Art of Fiction No. 149 (1997)"
-},
-{
-  "link": "http://jonathanweisberg.org/post/Teaching%20Monty%20Hall/",
-  "data": "The Mosteller Hall Puzzle"
+  "link": "https://gist.github.com/myshov/05800f083a0afce56e0f782314a103eb",
+  "data": "Ways to Invoke a Function in JavaScript"
 },
 {
   "link": "https://rradczewski.github.io/ymmv/2017/06/Where-we-are-going-we-dont-need-headphones",
   "data": "Where we're going, we don't need headphones"
 },
 {
-  "link": "http://rosalindwilliams.com/writing/history-as-crisis-and-memory/the-rolling-apocalypse-of-contemporary-history/",
-  "data": "The Rolling Apocalypse of Contemporary History (2011)"
+  "link": "http://www.cc.gatech.edu/~turk/bio_sim/articles/metabolic_pathways.png",
+  "data": "Metabolic Pathways"
 },
 {
-  "link": "item?id=14582222",
-  "data": "Ask HN: How secure is the encryption offered by OS X's Disk Utility?"
+  "link": "https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf",
+  "data": "Does the Inertia of a Body Depend upon its Energy-Content? (1905) [pdf]"
+},
+{
+  "link": "http://jonathanweisberg.org/post/Teaching%20Monty%20Hall/",
+  "data": "The Mosteller Hall Puzzle"
 },
 {
   "link": "https://www.geriwalton.com/the-umbrella-as-weapon/",
   "data": "The Umbrella as a Weapon (2014)"
 },
 {
-  "link": "https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6",
-  "data": "If companies interviewed translators the way they interview coders"
-},
-{
-  "link": "https://github.com/Hackathonners/vania",
-  "data": "Project Vania – A Fair Distributor for Python"
-},
-{
   "link": "https://qz.com/1007328/all-hail-ggplot2-the-code-powering-all-those-excellent-charts-is-10-years-old/",
   "data": "Ggplot2 – The code powering all those excellent charts is 10 years old"
 },
 {
-  "link": "https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf",
-  "data": "Does the Inertia of a Body Depend upon its Energy-Content? (1905) [pdf]"
+  "link": "item?id=14582222",
+  "data": "Ask HN: How secure is the encryption offered by OS X's Disk Utility?"
+},
+{
+  "link": "http://www.demos.org/what-cost-how-student-debt-reduces-lifetime-wealth",
+  "data": "How Student Debt Reduces Lifetime Wealth"
+},
+{
+  "link": "http://rosalindwilliams.com/writing/history-as-crisis-and-memory/the-rolling-apocalypse-of-contemporary-history/",
+  "data": "The Rolling Apocalypse of Contemporary History (2011)"
 },
