@@ -69,19 +69,23 @@ const parseHtml = (htmlString, output, parseFn, format) => {
 };
 
 function getNews(ch, output) {
-  return ch('tr.athing:has(td.votelinks)').map(function(index) {
-    const title = ch(this).find('td.title > a').text().trim();
-    const link = ch(this).find('td.title > a').attr('href');
-    return append(output, title, link);
-  });
+  return ch('tr.athing:has(td.votelinks)')
+    .map(function(index) {
+      const title = ch(this).find('td.title > a').text().trim();
+      const link = ch(this).find('td.title > a').attr('href');
+      return append(output, title, link);
+    })
+    .get();
 }
 
 function getJobs(ch, output) {
-  return ch('tr.athing:has(td.title)').map(function(index) {
-    const job = ch(this).find('td.title > a').text().trim();
-    const jobLink = ch(this).find('td.title > a').attr('href');
-    return append(output, job, jobLink);
-  });
+  return ch('tr.athing:has(td.title)')
+    .map(function(index) {
+      const job = ch(this).find('td.title > a').text().trim();
+      const jobLink = ch(this).find('td.title > a').attr('href');
+      return append(output, job, jobLink);
+    })
+    .get();
 }
 
 export function getScrapings(req, res) {
@@ -93,15 +97,8 @@ export function getScrapings(req, res) {
       );
     })
   )
-    .then(finalResult => finalResult)
-    .then(result => {
-      if (typeof result !== 'string') {
-        const jsonRes = JSON.stringify(result);
-        console.log('res', result);
-        res.send(jsonRes);
-      }
-      res.send(result);
-    });
+    .then(result => res.send(result))
+    .catch(e => console.log('error', e));
   //readFile('hackernewsJobs.json', 'utf8').then(json => {
   //res.send(json);
   //});
