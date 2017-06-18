@@ -15,6 +15,12 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var app = (0, _express2.default)();
 var PORT = process.env.PORT || 3005;
 
+app.use(function (req, res, next) {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  next();
+});
+
 //app.get('/crawl', getCrawling());
 
 app.get('/scrapings', function (req, res) {
