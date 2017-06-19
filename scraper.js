@@ -35,7 +35,7 @@ const sites = [
     url: 'https://news.ycombinator.com/news',
     output: 'hackernews',
     handler: getNews,
-    format: '.json'
+    format: '.txt'
   },
   {
     url: 'https://news.ycombinator.com/jobs',
@@ -52,7 +52,6 @@ function append(output, data, link, format = '.json') {
     if (!process.env.HEROKU) {
       fs.appendFileSync(outputFile, json + `,\n`);
     }
-    return json;
   } else if (format === '.txt') {
     if (!process.env.HEROKU) {
       fs.appendFileSync(outputFile, `${data}\n ${link}\n\n`);
