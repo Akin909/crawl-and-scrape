@@ -78,7 +78,8 @@ function getNews(ch, output) {
       const title = ch(this).find('td.title > a').text().trim();
       const link = ch(this).find('td.title > a').attr('href');
       return append(output, title, link);
-    }).get();
+    })
+    .get();
 }
 
 function getJobs(ch, output) {
@@ -87,7 +88,8 @@ function getJobs(ch, output) {
       const job = ch(this).find('td.title > a').text().trim();
       const jobLink = ch(this).find('td.title > a').attr('href');
       return append(output, job, jobLink);
-    }).get();
+    })
+    .get();
 }
 
 export function getScrapings(req, res) {
@@ -101,7 +103,4 @@ export function getScrapings(req, res) {
   )
     .then(result => res.send(result))
     .catch(e => console.log('error', e));
-  //readFile('hackernewsJobs.json', 'utf8').then(json => {
-  //res.send(json);
-  //});
 }
