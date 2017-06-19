@@ -40,7 +40,7 @@ var sites = [{
   url: 'https://news.ycombinator.com/news',
   output: 'hackernews',
   handler: getNews,
-  format: '.json'
+  format: '.txt'
 }, {
   url: 'https://news.ycombinator.com/jobs',
   output: 'hackernewsJobs',
@@ -57,7 +57,6 @@ function append(output, data, link) {
     if (!process.env.HEROKU) {
       fs.appendFileSync(outputFile, json + ',\n');
     }
-    return json;
   } else if (format === '.txt') {
     if (!process.env.HEROKU) {
       fs.appendFileSync(outputFile, data + '\n ' + link + '\n\n');
@@ -107,7 +106,4 @@ function getScrapings(req, res) {
   }).catch(function (e) {
     return console.log('error', e);
   });
-  //readFile('hackernewsJobs.json', 'utf8').then(json => {
-  //res.send(json);
-  //});
 }
