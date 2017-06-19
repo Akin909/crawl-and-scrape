@@ -45,22 +45,20 @@ const sites = [
   }
 ];
 
-function append(output, data, link, format = '.json') {
+function append(output, data, link, format) {
   const outputFile = output + format;
-  if (format === '.json') {
-    const json = JSON.stringify({ link, data }, null, 2);
-    if (!process.env.HEROKU) {
+  if (!process.env.HEROKU) {
+    if (format === '.json') {
+      const json = JSON.stringify({ link, data }, null, 2);
       fs.appendFileSync(outputFile, json + `,\n`);
-    }
-  } else if (format === '.txt') {
-    if (!process.env.HEROKU) {
+    } else if (format === '.txt') {
       fs.appendFileSync(outputFile, `${data}\n ${link}\n\n`);
     }
-    return {
-      data,
-      link
-    };
   }
+  return {
+    data,
+    link
+  };
 }
 
 const parseHtml = (htmlString, output, parseFn, format) => {
